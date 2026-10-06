@@ -1,4 +1,4 @@
-# Vauxhall Terminal
+# Central Intelligence Console
 
 A spy-themed personal operations dashboard that runs as a static website (GitHub Pages) on real, live data and **your own** accounts. It has OSINT collection, a 3D flight radar, a conflict map, a route explorer, travel booking search, a marketplace, food delivery, rides, peer-to-peer messaging with friends, and your choice of AI assistants.
 
