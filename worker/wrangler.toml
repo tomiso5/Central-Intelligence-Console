@@ -1,0 +1,7 @@
+name = "vt-relay"
+main = "relay.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+# Comma-separated list of sites allowed to use this relay. Add your GitHub Pages URL.
+ALLOWED_ORIGINS = "https://YOUR-USERNAME.github.io,http://localhost:8080"

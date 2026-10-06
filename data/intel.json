@@ -1,0 +1,59 @@
+{
+"asOf":"2026-10-06T05:30:00Z",
+"threat":{"level":"SEVERE","since":"30 Apr 2026","meaning":"An attack is highly likely","src":"GOV.UK / JTAC","url":"https://www.gov.uk/government/news/uk-national-threat-level-raised-to-severe"},
+"hotspots":[
+{"id":"kyiv","name":"Kyiv","region":"Ukraine","lat":50.45,"lon":30.52,"sev":"critical","date":"2026-10-04","title":"Strikes on Kyiv bridges during German chancellor's visit","summary":"Russia struck a key bridge in Kyiv as Chancellor Merz arrived on 4 Oct, the second bridge hit in two days. Moscow has pledged heavier strikes after Kyiv said it will keep targeting Russian refineries.","src":"Al Jazeera","url":"https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine"},
+{"id":"odesa","name":"Odesa","region":"Ukraine","lat":46.48,"lon":30.73,"sev":"high","date":"2026-10-03","title":"Black Sea shipping under fire","summary":"Russian attacks on civilian cargo ships around Odesa have in effect blockaded Ukraine's Black Sea ports, cutting grain and steel exports.","src":"Al Jazeera","url":"https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge"},
+{"id":"berdychiv","name":"Berdychiv","region":"Ukraine","lat":49.9,"lon":28.6,"sev":"high","date":"2026-10-05","title":"Apartment strike; bus hit at Moldova border","summary":"A residential block in Berdychiv was damaged across six floors and a passenger bus was struck at the Ukraine–Moldova border. ISW expects early strikes on the power grid ahead of winter.","src":"RBC-Ukraine","url":"https://newsukraine.rbc.ua/war-in-ukraine"},
+{"id":"refineries","name":"Volga refinery belt","region":"Russia","lat":53.2,"lon":50.15,"sev":"elevated","date":"2026-10-04","title":"Ukraine's long-range refinery campaign","summary":"Ukraine's defence ministry says more than half of Russia's oil refineries have now been hit, and Kyiv says the campaign will intensify.","src":"RBC-Ukraine","url":"https://newsukraine.rbc.ua/war-in-ukraine"},
+{"id":"tehran","name":"Tehran","region":"Iran","lat":35.69,"lon":51.39,"sev":"critical","date":"2026-10-05","title":"US–Israeli war on Iran, month eight","summary":"The war that began on 28 Feb 2026 has no settlement in sight. Tehran says there is no military solution; former diplomats expect escalation in the coming weeks. Around 9,000 more US troops are heading to the region.","src":"Al Jazeera / FDD","url":"https://www.aljazeera.com/middle-east/"},
+{"id":"hormuz","name":"Strait of Hormuz","region":"Gulf","lat":26.57,"lon":56.25,"sev":"critical","date":"2026-10-04","title":"Hormuz shipping crisis","summary":"Explosions reported in the strait, probably Iranian fire on ships, while a US blockade and new sanctions squeeze shipping lanes. Regional crude exports have still recovered above pre-war levels.","src":"Jerusalem Post / FDD","url":"https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489"},
+{"id":"yemen","name":"Aden / Gulf of Aden","region":"Yemen","lat":12.8,"lon":45.0,"sev":"high","date":"2026-10-04","title":"Counter-offensive against the Houthis; tanker incident","summary":"Yemeni government forces have opened a large offensive to retake Houthi-held ground. UKMTO reported explosions near a tanker off the southern coast.","src":"Jerusalem Post","url":"https://www.jpost.com/middle-east/iran-news/2026-10-04/live-updates-910489"},
+{"id":"lebanon","name":"Southern Lebanon","region":"Lebanon","lat":33.27,"lon":35.4,"sev":"high","date":"2026-10-05","title":"Israel–Hezbollah war since 2 March","summary":"Major fighting resumed when Hezbollah struck Israel after the Iran war began. UNIFIL's mandate expires on 31 Dec 2026.","src":"Wikipedia","url":"https://en.wikipedia.org/wiki/2026_Lebanon_war"},
+{"id":"gaza","name":"Gaza","region":"Palestinian territories","lat":31.45,"lon":34.4,"sev":"high","date":"2026-10-05","title":"Ceasefire plan stalled at phase one","summary":"A year on, the disarmament and withdrawal phases are unimplemented and the IDF holds roughly half the Strip. Strikes continue. Israel votes on 27 Oct.","src":"Security Council Report","url":"https://www.securitycouncilreport.org/monthly-forecast/2026-10/the-middle-east-including-the-palestinian-question-26.php"},
+{"id":"flydubai","name":"Dubai","region":"UAE","lat":25.25,"lon":55.36,"sev":"elevated","date":"2026-10-05","title":"Attempted downing of Israel-bound airliner","summary":"A flydubai co-pilot tried to crash a flight carrying 180+ people. Israel says he was radicalised; President Trump says he believes Iran was behind it and has threatened strikes if a link is shown.","src":"Times of Israel / FDD","url":"https://www.timesofisrael.com/liveblog-october-5-2026/"},
+{"id":"fairford","name":"RAF Fairford","region":"United Kingdom","lat":51.68,"lon":-1.79,"sev":"elevated","date":"2026-10-04","title":"US bombers pulled from RAF Fairford","summary":"The US withdrew its B-1 bombers from the Gloucestershire base amid reports of an alleged Iranian plot. The UK national threat level is SEVERE.","src":"Al Jazeera / Jerusalem Post","url":"https://www.aljazeera.com/middle-east/"},
+{"id":"sudan","name":"North Kordofan","region":"Sudan","lat":13.18,"lon":30.22,"sev":"high","date":"2026-01-05","title":"Sudan: the war moves to Kordofan","summary":"Since taking El Fasher in Oct 2025 the RSF holds most of western Sudan; El Obeid, Kadugli and Dilling are exposed. Famine conditions persist. (Last confirmed update Jan 2026.)","src":"Arab News / UN","url":"https://www.arabnews.pk/node/2628377/middle-east"},
+{"id":"taiwan","name":"Taiwan Strait","region":"Indo-Pacific","lat":24.2,"lon":119.6,"sev":"elevated","date":"2026-07-24","title":"Sustained PLA pressure on Taiwan","summary":"China held live-fire drills off Dongshan Island in July, a day after US–China talks; median-line crossings continue and Taipei has expanded civil-defence exercises.","src":"Financial News / Yonhap","url":"https://en.fnnews.com/news/202607240922274240"},
+{"id":"aramco","name":"Dhahran","region":"Saudi Arabia","lat":26.29,"lon":50.11,"sev":"watch","date":"2026-10-05","title":"Global oil stockpiles drawn down","summary":"Aramco's chief executive warned the crude and fuel squeeze will tighten and refilling emergency stocks could take up to two years. Brent is trading around $100.","src":"The Standard","url":"https://www.thestandard.com.hk/news/article/344685/Morning-Recap-October-6-2026"},
+{"id":"serbia","name":"Belgrade","region":"Serbia","lat":44.79,"lon":20.45,"sev":"watch","date":"2026-10-25","title":"Parliamentary election on 25 Oct","summary":"Serbia goes to the polls later this month.","src":"Wikipedia","url":"https://en.wikipedia.org/wiki/2026_in_Serbia"},
+{"id":"spain","name":"Madrid","region":"Spain","lat":40.42,"lon":-3.7,"sev":"watch","date":"2026-10-05","title":"Spain heads to an early election","summary":"Prime Minister Pedro Sánchez announced early elections in a televised address.","src":"CNBC","url":"https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html"}
+],
+"cyber":[
+{"sev":"critical","date":"2026-10-04","title":"Citrix NetScaler: mass exploitation of two RCE flaws","summary":"Citrix confirmed two bugs that let attackers plant code and pivot into networks. Guidance is to assume compromise.","src":"this week in security","url":"https://this.weekinsecurity.com/this-week-in-security-october-4-2026-edition/"},
+{"sev":"critical","date":"2026-10-02","title":"FortiMail zero-day CVE-2026-104286 (CVSS 9.8)","summary":"Fortinet warns the flaw is exploited in the wild for unauthenticated code execution.","src":"Cybersecurity News","url":"https://cybersecuritynews.com/cybersecurity-newsletter-weekly-october-2"},
+{"sev":"high","date":"2026-10-01","title":"Cisco Catalyst SD-WAN Manager auth bypass added to KEV","summary":"CISA lists the flaw as actively exploited.","src":"WIU Cybersecurity Center","url":"https://www.wiu.edu/cybersecuritycenter/cybernews.php"},
+{"sev":"high","date":"2026-10-01","title":"Apple CoreGraphics CVE-2026-86950: public PoC","summary":"Flaw Apple says may have been used against targeted individuals; researchers see a possible delivery path via PDFs.","src":"Security Affairs","url":"https://securityaffairs.com/"},
+{"sev":"high","date":"2026-10-04","title":"Warlock ransomware hits water, telecom and government","summary":"China-linked actor still exploiting SharePoint flaws for initial access and to disable security tools.","src":"Security Affairs","url":"https://securityaffairs.com/"},
+{"sev":"high","date":"2026-10-02","title":"Pentagon personnel data breach: 3M+ affected","summary":"Week's largest disclosed breach of personnel records.","src":"Cybersecurity News","url":"https://cybersecuritynews.com/cybersecurity-newsletter-weekly-october-2"},
+{"sev":"medium","date":"2026-10-01","title":"Bitget: $387.5M theft via third-party zero-day","summary":"Exchange confirms attackers abused a flaw in a third-party security product.","src":"WIU Cybersecurity Center","url":"https://www.wiu.edu/cybersecuritycenter/cybernews.php"},
+{"sev":"medium","date":"2026-10-04","title":"DIVD breached by an autonomous AI agent","summary":"Dutch vulnerability-disclosure institute confirms a noisy intrusion run by an AI agent.","src":"this week in security","url":"https://this.weekinsecurity.com/this-week-in-security-october-4-2026-edition/"},
+{"sev":"info","date":"2026-10-01","title":"Operation KillSwitch dismantles KillSec","summary":"Europol-led takedown; a 16-year-old alleged administrator arrested in Spain.","src":"Security Affairs","url":"https://securityaffairs.com/"},
+{"sev":"medium","date":"2026-10-06","title":"BYOD group leaks Trump Mobile customer data","summary":"About 3,600 records posted to a leak site; access path unconfirmed.","src":"Cybersecurity News","url":"https://cybersecuritynews.com/trump-mobile-data-breach"},
+{"sev":"medium","date":"2026-10-01","title":"Qilin ransomware hits Japanese electronics maker","summary":"Engineering documents and system designs exposed on a leak site.","src":"CYFIRMA","url":"https://cyfirma.com/news/weekly-intelligence-report-1-oct-2026"}
+],
+"markets":{
+"asOf":"Close 5 Oct 2026",
+"indices":[
+{"k":"S&P 500","v":7773.95,"c":0.66},{"k":"Nasdaq Comp.","v":27477.31,"c":1.05,"note":"Record close"},{"k":"Dow Jones","v":51267.90,"c":0.18},{"k":"Russell 2000","v":2847.14,"c":0.50},{"k":"FTSE 100","v":10486.34,"c":0.23,"note":"2 Oct"},{"k":"Nikkei 225","v":69946.86,"c":2.40,"note":"Last seen"}],
+"commodities":[{"k":"Brent crude","v":100.5,"c":null,"u":"$/bbl","note":"Swung $100–103"},{"k":"WTI crude","v":89.80,"c":-1.44,"u":"$/bbl"},{"k":"Gold","v":4138.78,"c":-0.03,"u":"$/oz"}],
+"notes":[
+"Nasdaq closes at a record as tech leads; S&P 500 within 0.3% of its summer high.",
+"US Treasury yields remain near multi-decade highs; soft jobs data trimmed odds of another Fed hike.",
+"UK 30-year gilt yield crossed 6% on 1 Oct for the first time since 1998.",
+"G7 pledged extra oil supply; Aramco warns stockpile refill could take two years."],
+"src":"AP / Yahoo Finance, TheStreet, Trading Economics, BBN Times"},
+"ticker":[
+"Kyiv — Russia targets capital's bridges as Merz visits",
+"Hormuz — explosions reported; shipping lanes squeezed by blockade",
+"Yemen — government offensive against Houthis under way",
+"Washington — ~9,000 additional US troops ordered to Middle East",
+"RAF Fairford — US B-1 bombers withdrawn amid alleged Iranian plot",
+"Markets — Nasdaq record close at 27,477; Brent near $100",
+"Gilts — 30-year yield breaches 6%, first time since 1998",
+"Cyber — Citrix NetScaler under mass exploitation; assume compromise",
+"Cyber — FortiMail zero-day CVE-2026-104286 exploited",
+"Israel — general election on 27 Oct; Gaza plan stalled",
+"Spain — early general election called",
+"UK — national threat level remains SEVERE"]
+}

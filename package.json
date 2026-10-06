@@ -1,0 +1,16 @@
+{
+  "name": "vauxhall-terminal",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Spy-themed personal operations dashboard on public data and your own accounts. Static site + optional Cloudflare Worker relay.",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve -l 8080 .",
+    "routes": "node scripts/build-routes.mjs",
+    "map": "node scripts/build-map.mjs",
+    "relay:dev": "cd worker && npx --yes wrangler dev",
+    "relay:deploy": "cd worker && npx --yes wrangler deploy"
+  },
+  "devDependencies": { "d3-geo": "^3.1.0", "topojson-client": "^3.1.0", "world-atlas": "^2.0.2" },
+  "license": "MIT"
+}
